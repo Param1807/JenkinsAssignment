@@ -2,38 +2,38 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-23T23:03:40 IST" name="Suite" finished-at="2023-07-23T23:04:20 IST" duration-ms="39614">
+  <suite started-at="2023-07-24T21:27:08 IST" name="Suite" finished-at="2023-07-24T21:27:21 IST" duration-ms="13658">
     <groups>
     </groups>
-    <test started-at="2023-07-23T23:03:40 IST" name="Test" finished-at="2023-07-23T23:04:20 IST" duration-ms="39614">
-      <class name="Bench.BenchTest.Positive">
-        <test-method is-config="true" signature="startBrowser()[pri:0, instance:Bench.BenchTest.Positive@17f9d882]" started-at="2023-07-23T23:04:14 IST" name="startBrowser" finished-at="2023-07-23T23:04:17 IST" duration-ms="3129" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- startBrowser -->
-        <test-method signature="positive()[pri:0, instance:Bench.BenchTest.Positive@17f9d882]" started-at="2023-07-23T23:04:17 IST" name="positive" finished-at="2023-07-23T23:04:19 IST" duration-ms="2445" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- positive -->
-        <test-method is-config="true" signature="stopBrowser()[pri:0, instance:Bench.BenchTest.Positive@17f9d882]" started-at="2023-07-23T23:04:19 IST" name="stopBrowser" finished-at="2023-07-23T23:04:20 IST" duration-ms="633" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- stopBrowser -->
-      </class> <!-- Bench.BenchTest.Positive -->
+    <test started-at="2023-07-24T21:27:08 IST" name="Test" finished-at="2023-07-24T21:27:21 IST" duration-ms="13658">
       <class name="Bench.BenchTest.Negative">
-        <test-method is-config="true" signature="startBrowser()[pri:0, instance:Bench.BenchTest.Negative@53fb3dab]" started-at="2023-07-23T23:03:40 IST" name="startBrowser" finished-at="2023-07-23T23:04:11 IST" duration-ms="30323" status="PASS">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:Bench.BenchTest.Negative@53ce1329]" started-at="2023-07-24T21:27:08 IST" name="startBrowser" finished-at="2023-07-24T21:27:12 IST" duration-ms="3977" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startBrowser -->
-        <test-method signature="negative()[pri:0, instance:Bench.BenchTest.Negative@53fb3dab]" started-at="2023-07-23T23:04:11 IST" name="negative" finished-at="2023-07-23T23:04:13 IST" duration-ms="2323" status="PASS">
+        <test-method signature="negative()[pri:0, instance:Bench.BenchTest.Negative@53ce1329]" started-at="2023-07-24T21:27:12 IST" name="negative" finished-at="2023-07-24T21:27:14 IST" duration-ms="2185" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- negative -->
-        <test-method is-config="true" signature="stopBrowser()[pri:0, instance:Bench.BenchTest.Negative@53fb3dab]" started-at="2023-07-23T23:04:13 IST" name="stopBrowser" finished-at="2023-07-23T23:04:14 IST" duration-ms="714" status="PASS">
+        <test-method is-config="true" signature="stopBrowser()[pri:0, instance:Bench.BenchTest.Negative@53ce1329]" started-at="2023-07-24T21:27:14 IST" name="stopBrowser" finished-at="2023-07-24T21:27:14 IST" duration-ms="640" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stopBrowser -->
       </class> <!-- Bench.BenchTest.Negative -->
+      <class name="Bench.BenchTest.Positive">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:Bench.BenchTest.Positive@32502377]" started-at="2023-07-24T21:27:14 IST" name="startBrowser" finished-at="2023-07-24T21:27:17 IST" duration-ms="2997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="positive()[pri:0, instance:Bench.BenchTest.Positive@32502377]" started-at="2023-07-24T21:27:17 IST" name="positive" finished-at="2023-07-24T21:27:21 IST" duration-ms="3194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positive -->
+        <test-method is-config="true" signature="stopBrowser()[pri:0, instance:Bench.BenchTest.Positive@32502377]" started-at="2023-07-24T21:27:21 IST" name="stopBrowser" finished-at="2023-07-24T21:27:21 IST" duration-ms="636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopBrowser -->
+      </class> <!-- Bench.BenchTest.Positive -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
